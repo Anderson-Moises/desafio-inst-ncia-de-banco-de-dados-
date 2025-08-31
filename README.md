@@ -1,4 +1,4 @@
-# desafio-instancia-de-banco-de-dados-
+# desafio-instancia-de-banco-de-dados
 Configurando uma instância de Banco de Dados na Azure
 
 # 🚀 Projeto: Instância de Banco de Dados no Azure
